@@ -39,7 +39,6 @@ The Android app records motion sensor data while driving/riding, and a Python ba
 > I currently **do not have the ML model code or inference files**.  
 > These are supervised by my instructor and will be added later when available.
 
-Model files will eventually be placed here:
 
 
 ## App Screenshots
