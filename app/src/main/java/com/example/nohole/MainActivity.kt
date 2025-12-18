@@ -29,7 +29,7 @@ class MainActivity : AppCompatActivity() {
     private val pollIntervalMs: Long = 5000   // every 5 sec
 
     // ⚠️ Change this to your backend URL
-    private val SERVER_URL = "http://10.149.131.154:5000/get_latest"
+    private val SERVER_URL = "http://10.53.159.154:5000/get_latest"
 
 
     private val LOCATION_PERMISSION_CODE = 1001
